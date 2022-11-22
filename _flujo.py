@@ -166,7 +166,7 @@ def ejecutar():
     nummax_scovid = 2
     contar_scovid = 0
     #ver archivo _auxSintomasCovid.txt
-    scovid = ["fiebre","tos","fatiga","falta de aliento",\
+    scovid = ["fiebre","tos","fatiga","falta de aliento","diarrea",\
         "dificultad para respirar", "tos seca", "tos seca persistente", "dolor de garganta", "dolor de pecho"] #perdida del gusto o del olfato"?
 
     digitos = edades + []
